@@ -1,0 +1,12 @@
+C:\Users\sttr0\source\repos\MyClock\MyClock\bin\Debug\MyClock.exe.config
+C:\Users\sttr0\source\repos\MyClock\MyClock\bin\Debug\MyClock.exe
+C:\Users\sttr0\source\repos\MyClock\MyClock\bin\Debug\MyClock.pdb
+C:\Users\sttr0\source\repos\MyClock\MyClock\bin\Debug\MyClock.xml
+C:\Users\sttr0\source\repos\MyClock\MyClock\obj\Debug\MyClock.vbprojAssemblyReference.cache
+C:\Users\sttr0\source\repos\MyClock\MyClock\obj\Debug\MyClock.Display.resources
+C:\Users\sttr0\source\repos\MyClock\MyClock\obj\Debug\MyClock.Resources.resources
+C:\Users\sttr0\source\repos\MyClock\MyClock\obj\Debug\MyClock.vbproj.GenerateResource.cache
+C:\Users\sttr0\source\repos\MyClock\MyClock\obj\Debug\MyClock.vbproj.CoreCompileInputs.cache
+C:\Users\sttr0\source\repos\MyClock\MyClock\obj\Debug\MyClock.exe
+C:\Users\sttr0\source\repos\MyClock\MyClock\obj\Debug\MyClock.xml
+C:\Users\sttr0\source\repos\MyClock\MyClock\obj\Debug\MyClock.pdb
